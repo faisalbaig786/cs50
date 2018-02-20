@@ -1,0 +1,4 @@
+0. The dimensions can be 3-9 units squared
+1. The board is represented by integers in a 2-D array
+2. The greet function
+3. Need to implement init, draw, move, and won functions
